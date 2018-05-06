@@ -2,6 +2,10 @@
 
 Repository of [JS with TDD](https://www.udemy.com/js-com-tdd-na-pratica) course.
 
+#
+[![Travis](https://img.shields.io/travis/cagrispan/js-tdd-course.svg)](https://travis-ci.org/cagrispan/js-tdd-course)
+
+
 ## Getting Started
 
 ### Prerequisites
