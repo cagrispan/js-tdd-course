@@ -19,7 +19,8 @@
     "branches": 80,
     "reporter": [
       "text",
-      "html"
+      "html",
+      "lcov"
     ],
     "exclude": [
       "tests/**"
