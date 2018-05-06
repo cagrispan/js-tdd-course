@@ -1,15 +1,8 @@
-export function sum(a, b) {
-  return a + b;
-}
+export const sum = (a, b) => a + b;
 
-export function sub(a, b) {
-  return a - b;
-}
+export const sub = (a, b) => a - b;
 
-export function multi(a, b) {
-  return a * b;
-}
+export const multi = (a, b) => a * b;
 
-export function div(a, b) {
-  return a / b;
-}
+export const div = (a, b) => (b ? a / b : 'Not allowed to divide per zero!');
+
