@@ -4,8 +4,9 @@ Repository of [JS with TDD](https://www.udemy.com/js-com-tdd-na-pratica) course.
 
 #
 [![Travis](https://img.shields.io/travis/cagrispan/js-tdd-course.svg)](https://travis-ci.org/cagrispan/js-tdd-course)
-[![Code Climate](https://codeclimate.com/github/cagrispan/js-tdd-course/badges/gpa.svg)](https://codeclimate.com/github/cagrispan/LanceSolidario)
-[![Issue Count](https://codeclimate.com/github/cagrispan/js-tdd-course/badges/issue_count.svg)](https://codeclimate.com/github/cagrispan/LanceSolidario)
+[![Issue Count](https://codeclimate.com/github/cagrispan/js-tdd-course/badges/issue_count.svg)](https://codeclimate.com/github/cagrispan/js-tdd-course)
+[![Maintainability](https://api.codeclimate.com/v1/badges/0a7689f6853565e7ce70/maintainability)](https://codeclimate.com/github/cagrispan/js-tdd-course/maintainability)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/0a7689f6853565e7ce70/test_coverage)](https://codeclimate.com/github/cagrispan/js-tdd-course/test_coverage)
 
 ## Getting Started
 
